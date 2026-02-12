@@ -1,5 +1,5 @@
 # Tarea-microeconometria2026
-1.-Documento de r que realiza la tabla descriptiva y el histograma de la variable exam_score (tabla_y_bootstrap)
+1.-Documento de r que realiza la tabla descriptiva y el histograma de la variable exam_score (tabla_histograma)
 
 2.-Documento de r que realiza todo lo relacionado a los kernels (kernels.r)
 
